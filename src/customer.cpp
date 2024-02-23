@@ -3,6 +3,15 @@
     {
         
     }
+
+     customer::customer(string Name, string Address,string Mobile_Number )
+    {
+
+        this->Name=Name;
+        this->Address=Address;
+        this->Mobile_Number=Mobile_Number;
+    }
+
     customer::customer(string Name, string Address,string Mobile_Number )
     {
 
