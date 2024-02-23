@@ -1,0 +1,13 @@
+9146427233,honda,shine,mh12pe0543
+9146427233,bajaj,ct100,mh12pe9623
+9146427233,tvs,jupiter,mh12be9999
+8080198512,Honda,Activa,mh12bh8055
+8080198512,hero,splender,mh12bc8282
+9146425917,bajaj,pulsar220,mh12bc7575
+9146425917,Honda,Dreamyuga,mh12nj1575
+9975193845,yamaha,FZ,mh14hs4200
+9623631096,bajaj,pulsar ns 125,mh12tc9090
+9767870010,Royalenfield,Bullet350,mh12tt7575
+123456789,bajaj,shine,mh123456
+123456789,bajaj,discover,mh123
+9834107883,honda,activa,1234

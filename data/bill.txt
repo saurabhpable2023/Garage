@@ -1,0 +1,16 @@
+4130,4000,mh12bc7575,saurabht
+1829,1800,mh12be9999,saurabh
+2135.8,2100,mh12pe0543,saurabh
+1003,1000,mh12bc8282,prathamesh
+5546,5546,mh12tt7575,shrikant
+6136,6100,mh12tc9090,Dnyaneshwar
+1652,1600,mh12bc8282,prathamesh
+1888,1888,mh14hs4200,SIDDHANT
+2153.5,2100,mh12bc8282,prathamesh
+1593,1590,mh12bc7575,saurabht
+1770,1770,mh12tc9090,Dnyaneshwar
+1239,1230,mh12be9999,saurabh
+2478,2478,mh12bc8282,prathamesh
+2773,2770,mh12bc8282,prathamesh
+1593,1590,mh123,sunbeam
+141.6,141,1234,suraj
